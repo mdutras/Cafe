@@ -1,0 +1,10 @@
+th{
+    border-color:black;
+    border-style: solid;
+    width: 80px;
+    height: 40px;
+}
+
+.item:hover{
+    border-color: green;
+}

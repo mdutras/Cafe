@@ -1,0 +1,18 @@
+{
+    "Milk":{
+        "Description":"Milk",
+        "Cost":0.10
+    },
+    "Mocha":{
+        "Description":"Mocha",
+        "Cost":0.20
+    },
+    "Soy":{
+        "Description":"Soy",
+        "Cost":0.15
+    },
+    "Whip":{
+        "Description":"Whip",
+        "Cost":0.10
+    }
+}
